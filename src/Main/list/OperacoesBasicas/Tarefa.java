@@ -1,3 +1,9 @@
+/*
+ *  code along example / copiado durante aula 
+ * Instructor/Instrutora: Camila Cavalcante (Digital Innovation One)
+ * 
+ */
+
 package Main.list.OperacoesBasicas;
 
 public class Tarefa {

@@ -1,3 +1,9 @@
+/*
+ * code along example / copiado durante aula 
+ * Instrutora: Camila Cavalcante (Digital Innovation One)
+ * 
+ */
+
 package Main.list.OperacoesBasicas;
 
 import java.util.ArrayList;
